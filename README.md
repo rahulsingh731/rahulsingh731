@@ -10,7 +10,10 @@
 - **Programming**: Java, Python, JavaScript, TypeScript  
 - **Frameworks**: TDD, BDD (Cucumber)  
 - **Tools**: SQL, JIRA, Jenkins, Git, REST Assured/Postman  
-- **Methodologies**: Agile & DevOps, CI/CD Pipelines  
+- **Methodologies**: Agile & DevOps, CI/CD Pipelines
+
+---
+### Click here to access my latest [CV/Resume](https://drive.google.com/file/d/1DJdc0-eQx4KWAY3kWIE4ZgIox-EkQVJ7/view?usp=drive_link)
 
 ---
 ### Talking about Personal Stuffs:
