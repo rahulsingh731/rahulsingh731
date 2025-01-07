@@ -23,7 +23,8 @@
 - 🎬 I love watching movies and I'm a big fan of MCU 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via rahulsinghmaures731@gmail.com or ping me on [Linkedin](https://www.linkedin.com/in/rahulsingh731) to reach me;
-
+<p align="left">
+<img src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952tpkewbfj9hcjf6sx6gj3yv4ajesjecmqeqqcmi3r&ep=v1_gifs_search&rid=200w.gif&ct=g" /> </p>
 
 ---
 ## Worked with Tools :
